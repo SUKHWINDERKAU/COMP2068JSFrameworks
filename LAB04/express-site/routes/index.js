@@ -1,3 +1,4 @@
+npx express-generator express-site --view=ejs
 var express = require('express');
 var router = express.Router();
 
